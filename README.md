@@ -1,4 +1,6 @@
 practica-is
 ===========
 
-Este repositorio va a guardar el córdigo que desarrollemos.
+Este repositorio va a guardar el código que desarrollemos.
+
+Frase nueva.
