@@ -1,4 +1,4 @@
 practica-is
 ===========
 
-Prácticas de IS
+Este repositorio va a guardar el córdigo que desarrollemos.
